@@ -16,5 +16,3 @@ On the other side of the coin, if one nation's military actively attempts to sw
 It will only be a matter of time until they appear on the black market and in the hands of terrorists, dictators wishing to better control their populace, warlords wishing to perpetrate ethnic cleansing, etc.
 
 If the biggest technological pursuit within AI came to be autonomous weapons, I fear that the entire field itself will be portrayed as a deliverer of death. As if years of research all boiled down to creating killing machines. That simply is not the case, and it never has been. No one can stop the creation of these killer robots, but if this open letter's proposal passes into law then hopefully we can shift the public's perception of AI from this tiny, dark subset to the vast majority of subsets which are changing today's world for the better.
-
-![_config.yml]({{ site.baseurl }}/images/idescreenshot.png
