@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magic Leap - The Future of Augmented Reality
-permalink: /tech/
+permalink: /tech/magicleap
 ---
 
 The future of augmented reality really is here, and it's brought to you not by tech giants Google, Microsoft, or Apple, nor by any well-established company with a firm grounding in the field, but instead by a small startup called Magic Leap. (You should really check out that link after the article - even the homepage makes you giddy).
