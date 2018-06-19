@@ -30,8 +30,8 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/saltire">Saltire Scholarship</a>
-            <a href="{{ site.baseurl }}/tech">Tech Talk</a>
+            <a href="{{ site.baseurl }}/saltire"{% if page.url == "{{ site.baseurl }}/satire" %}class="active"{% endif %}>Saltire Scholarship</a>
+            <a href="{{ site.baseurl }}/tech"{% if page.url == "{{ site.baseurl }}/tech" %}class="active"{% endif %}>Tech Talk</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
