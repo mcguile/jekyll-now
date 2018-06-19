@@ -8,5 +8,4 @@ Welcome to my blog. Here I discuss all things regarding current and future techn
 
 ### Contact me
 
-Check out my social media by clicking the buttons below.
-[connor@mcguile.com](mailto:connor@mcguile.com)
+Check out my social media by clicking the buttons below
