@@ -10,4 +10,4 @@ Thanks for taking the time to read. Feel free to comment on any of the posts!
 
 ### Contact me
 
-Check out my social media by clicking the buttons below
+Check out my social media by clicking the buttons below.
