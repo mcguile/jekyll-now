@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artificial Intelligence: A Revolution in Warfare
+title: Artificial Intelligence - A Revolution in Warfare
 ---
 
 Due to it's incredible potential for life changing technology, Artificial Intelligence has been one of the fastest growing areas for research and development. The central goal behind AI is to create machines capable of human behavior, with the long-term goals being social intelligence, creativity, and general intelligence. It's large interdisciplinary scope means that many professions are able to contribute to it's evolution. Computer scientists, mathematicians and engineers play just as much a part as linguists, psychologists and philosophers in the creation of AI tools. Significant progress has been made within all areas of study, but there are concerns that these new advancements in technology are being misused.
