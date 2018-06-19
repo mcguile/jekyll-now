@@ -5,9 +5,9 @@ published: true
 <link rel="shortcut icon" type="image/png" 
       href="{{ "/images/apple-icon-180x180.png"  | absolute_url }}">
 
-{% for entry in site.posts %}
-   {% if entry.category == scholar %}
-      <article class="post">
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
@@ -17,19 +17,8 @@ published: true
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-   {% elsif entry.category == tech %}
-      <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-   {% endif %}
-{% endfor %}
+  {% endfor %}
+</div>
 
 <div class="posts">
   {% for post in site.posts %}
