@@ -5,7 +5,7 @@ categories: saltire
 comments: true
 ---
 
-![La Jolla](/images/sandiego1.jpg)
+![La Jolla](/images/sandiego2.jpg)
 
 Hey, everyone. These next few blogs may be split into separate categories of technology used on the job, such as programming practices and lessons learned, and personal experiences both in and outwith work. For this first one, however, I'll go ahead and write it as a bit of both.
 
