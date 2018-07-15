@@ -5,7 +5,7 @@ categories: saltire
 comments: true
 ---
 
-![By the pier](/images/mepier.jpg)
+![By the pier](/images/mepier.png)
 
 It’s the end of my second week here in sunny California. Work has been rewarding and I hope everything I’m doing will come together nicely at the end for Envision Solar. I’m happy that the project I’m completing will actually be used for the customers. I am responsible entirely for how customers get their EV ARC data and that’s something to be proud of… and scared of. I may need Envision to sign an agreement to the effect that I am not liable. Anyone know any lawyers? 
 
@@ -13,7 +13,7 @@ Joking aside, this blog is going to be about the adventures I’ve had already i
 
 During the first week, the other interns here at Envision had already began making frantic plans to do *absolutely everything* in California so I kind of just hopped on board. There are two guys up in Orange County, also from Saltire, about a 2 hour drive away who were willing to meet up and go out sometime. It’s settled then. That day we made arrangements to carpool up to Orange County on Friday with a complete stranger on the internet. How times have changed. After work, the three of us went to grab dinner at a place called The Taco Stand. You know when people say there were queues out the door as some sort of hyperbole? This time queues outside the door meant a queue outside the door, down the street, and past the doors of other restaurants. We joined in line like the curious tourists we are. And my god was it worth it! Hands down the best Mexican food I have ever had in my life. Just look at this thing! (Image stolen from the internet - I was so hungry I completely forgot how to be a true millennial)
 
-![The Taco Stand](/images/tacostand.jpg) ![The Taco Stand Fries](/images/tacostandfries.jpg)
+![The Taco Stand](/images/tacostand.png) ![The Taco Stand Fries](/images/tacostandfries.jpg)
 
 Afterwards, we waited outside for our carpool who we knew nothing about. No description of age, race, car, reg plate, nothing. We were told the intern with us who booked the carpool described us to the carpool person. As a six-foot-three white guy standing by a black girl and a blonde, white girl, I thought this illustration would be the one given. It’s a pretty mismatched group to begin with; easily recognisable. But, no, her description was two girls with backpacks and a guy with a skateboard. Luckily, no other group of people in California match that description! After an hour wait, probably because the carpool woman was inspecting every collection of three people in San Diego, we were eventually picked up and headed for Orange County.
 
@@ -21,4 +21,4 @@ Things just got wild from there. The two guys, Bruce and Ronan, had invited thei
 
 The next day we had a look around Newport Beach. It was overcast and actually pretty cold for this time of year - around 18 degrees. Good fishing conditions, as we saw from the shear number of fisherman on the pier. Then we took a trip around the huge outdoor mall and ended the evening in a Italian restaurant. The next morning we all split to do our thing. A few of the people wanted to go to Catalina Island (famously quoted in Step Brothers) but I felt going across for 2 hours with a 2 hour boat ride either side wasn’t worth the $70 price tag. I chilled out in OC and visited a local cafe. I finally brought out the true 21st millennial blogger in me as you can see from the picture below. Notice the American flag in the car picture. If your life depended on finding an American flag here in 15 minutes or less, I’d ask what you’d do with the other 14 minutes. Overall, a nice weekend and a great first week in California!
 
-![Local Cafe Bagels](/images/bagel.jpg) ![Me at the Mall](/images/memall.jpg) ![Car at the Mall](/images/car.jpg)
+![Local Cafe Bagels](/images/bagel.png) ![Me at the Mall](/images/memall.png) ![Car at the Mall](/images/car.png)
