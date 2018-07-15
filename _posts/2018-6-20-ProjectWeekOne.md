@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical - Week One
-categories: saltire
+categories: saltire, tech
 comments: true
 ---
 
