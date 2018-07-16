@@ -23,4 +23,4 @@ The next day we had a look around Newport Beach. It was overcast and actually pr
 
 ![Local Cafe Bagels](/images/bagel.png) ![Me at the Mall](/images/memall.png) ![Car at the Mall](/images/car.png)
 
-[Previous Post](2018-6-20-ProjectWeekOne.md)
+[Previous Post](ProjectWeekOne.md)
