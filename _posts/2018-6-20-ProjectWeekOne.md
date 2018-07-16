@@ -25,4 +25,4 @@ Bryan’s script is a pretty good script in that it reads the registers of the E
 
 Now, I’m sure this has been enough technical splurge for you so I’ll end it there for now. I’ll talk about the frustrating challenges of accessing the charger APIs in the next blog. As I’m working 9-6 Monday-Friday, most of the play time is done at the weekends so look out for those blogs if you’d rather swerve the nerd jargon. Thanks for reading. I’ll see you in the one next one.
 
-[Previous Post](touchdown-in-san-diego.md) | [Next Post](FirstWeek.md)
+[Previous Post](touchdown-in-san-diego.html) | [Next Post](FirstWeek.html)
