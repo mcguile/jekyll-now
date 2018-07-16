@@ -7,7 +7,7 @@ comments: true
 
 ![By the pier](/images/mepier.png)
 
-It’s the end of my second week here in sunny California. Work has been rewarding and I hope everything I’m doing will come together nicely at the end for Envision Solar. I’m happy that the project I’m completing will actually be used for the customers. I am responsible entirely for how customers get their EV ARC data and that’s something to be proud of… and scared of. I may need Envision to sign an agreement to the effect that I am not liable. Anyone know any lawyers? 
+It’s the end of my first week here in sunny California. Work has been rewarding and I hope everything I’m doing will come together nicely at the end for Envision Solar. I’m happy that the project I’m completing will actually be used for the customers. I am responsible entirely for how customers get their EV ARC data and that’s something to be proud of… and scared of. I may need Envision to sign an agreement to the effect that I am not liable. Anyone know any lawyers? 
 
 Joking aside, this blog is going to be about the adventures I’ve had already in the short two weeks I’ve been here. I’m sure any viewers will be pleased about that if they managed to read any of the others. Five blogs and not one contained purely experiences outside work. Well here you are, my sole reader, this one’s for you.
 
