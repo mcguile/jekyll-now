@@ -5,8 +5,6 @@ categories: saltire
 comments: true
 ---
 
-![La Jolla](/images/sandiego2.jpg)
-
 Hey, everyone. These next few blogs may be split into separate categories of technology used on the job, such as programming practices and lessons learned, and personal experiences both in and outwith work. For this first one, however, I'll go ahead and write it as a bit of both.
 
 As you may have read in my previous post, I accepted an internship with Envision Solar, in San Diego, California. This was just before exams were due to take place so, inevitably, it was hard to keep focused knowing what was coming in the next few months. One big motivator to study was the fact that if I had failed an exam, the resit would be scheduled while I was in the USA. No idea how that would've played out. Thankfully, no resits here!
@@ -22,5 +20,7 @@ We arrived at San Diego airport Saturday evening after an 11 hour flight from Lo
 Reality still hasn't sank in that we're going to be working at a real company, producing real deliverables for their bottom line. As soon as we walk through the door of Envision Solar, we're greeted by Andy who works in sales. He's extremely peppy and welcoming. He gives us a brief tour whilst introducing us to most of the employees, including Bryan. The CEO, Desmond Wheatley, gave us a quick pep talk on how we're here to work hard and play hard... but mostly work hard. He certainly gives the impression that he's driven and I respect that. We were invited to attend his presentation to Leadership Women later that morning. The talk was mostly a promotional stunt for Envision Solar, whilst Desmond hit on key points relating to women in business and his personal belief in hiring of trainable people, regardless if they're ex-cons. He pushed on the fact that he is a white male in a society run by white males, and his intentions for equality seemed clear. Not to mention he said the word "penis" three or four times to get his point across. He's not afraid to speak his mind.
 
 After Desmond's talk, we had an opportunity to speak with all the women in attendance that day and hear their story. They had came from all over the US and plan to visit many businesses to hear talks and network. Then it was straight into the work. I met up with Bryan and we discussed tactics for the next 12 weeks. I'll talk more about that in the next blog. I'm finally here. Game on.
+
+![La Jolla](/images/sandiego2.jpg)
 
 [Previous Post](2018-6-5-Saltire3.md) | [Next Post](2018-6-20-ProjectWeekOne.md)
