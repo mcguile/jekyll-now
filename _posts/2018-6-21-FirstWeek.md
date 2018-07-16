@@ -5,8 +5,6 @@ categories: saltire
 comments: true
 ---
 
-![By the pier](/images/mepier.png)
-
 It’s the end of my first week here in sunny California. Work has been rewarding and I hope everything I’m doing will come together nicely at the end for Envision Solar. I’m happy that the project I’m completing will actually be used for the customers. I am responsible entirely for how customers get their EV ARC data and that’s something to be proud of… and scared of. I may need Envision to sign an agreement to the effect that I am not liable. Anyone know any lawyers? 
 
 Joking aside, this blog is going to be about the adventures I’ve had already in the short two weeks I’ve been here. I’m sure any viewers will be pleased about that if they managed to read any of the others. Five blogs and not one contained purely experiences outside work. Well here you are, my sole reader, this one’s for you.
@@ -21,6 +19,6 @@ Things just got wild from there. The two guys, Bruce and Ronan, had invited thei
 
 The next day we had a look around Newport Beach. It was overcast and actually pretty cold for this time of year - around 18 degrees. Good fishing conditions, as we saw from the shear number of fisherman on the pier. Then we took a trip around the huge outdoor mall and ended the evening in a Italian restaurant. The next morning we all split to do our thing. A few of the people wanted to go to Catalina Island (famously quoted in Step Brothers) but I felt going across for 2 hours with a 2 hour boat ride either side wasn’t worth the $70 price tag. I chilled out in OC and visited a local cafe. I finally brought out the true 21st millennial blogger in me as you can see from the picture below. Notice the American flag in the car picture. If your life depended on finding an American flag here in 15 minutes or less, I’d ask what you’d do with the other 14 minutes. Overall, a nice weekend and a great first week in California!
 
-![Local Cafe Bagels](/images/bagel.png) ![Me at the Mall](/images/memall.png) ![Car at the Mall](/images/car.png)
+![Local Cafe Bagels](/images/bagel.png) ![Me at the Mall](/images/memall.png) ![Car at the Mall](/images/car.png) ![By the pier](/images/mepier.png)
 
 [Previous Post](ProjectWeekOne.html)
