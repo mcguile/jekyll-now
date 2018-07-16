@@ -22,3 +22,5 @@ Things just got wild from there. The two guys, Bruce and Ronan, had invited thei
 The next day we had a look around Newport Beach. It was overcast and actually pretty cold for this time of year - around 18 degrees. Good fishing conditions, as we saw from the shear number of fisherman on the pier. Then we took a trip around the huge outdoor mall and ended the evening in a Italian restaurant. The next morning we all split to do our thing. A few of the people wanted to go to Catalina Island (famously quoted in Step Brothers) but I felt going across for 2 hours with a 2 hour boat ride either side wasn’t worth the $70 price tag. I chilled out in OC and visited a local cafe. I finally brought out the true 21st millennial blogger in me as you can see from the picture below. Notice the American flag in the car picture. If your life depended on finding an American flag here in 15 minutes or less, I’d ask what you’d do with the other 14 minutes. Overall, a nice weekend and a great first week in California!
 
 ![Local Cafe Bagels](/images/bagel.png) ![Me at the Mall](/images/memall.png) ![Car at the Mall](/images/car.png)
+
+[Previous Post](2018-6-20-ProjectWeekOne.md)
