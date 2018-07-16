@@ -5,8 +5,6 @@ categories: saltire
 comments: true
 ---
 
-![code](/images/code.jpg)
-
 Week one so far has been all I could have hoped for and more. The other interns and I have taken the opportunity most evenings to do some exploring of the San Diego coastline, the project I’ve been assigned has been challenging but steady, and I’ve come to feel quite at home with the work/play lifestyle out here. I’ll talk about the work I’m doing as detailed as I can without violating any sort of Intellectual Property rules and without boring any reader to death. This one will be purely technical so feel free to jump to another if this isn’t your thing.
 
 Going back to the description of the project in the last blog, my first task is to research and select a suitable database for the Electric Vehicle Autonomous Renewable Chargers (EV ARC) to post to. The systems can feed information about it’s inverters’ voltages and current, which allows us to determine if solar power is being produced, whether the internal batteries are charging, and whether there exists a load (e.g. a vehicle plugged in and charging). Each system has a secure cellular Linux router that has the capability to run Python scripts. This is essential to getting this project off the ground. Without this router, the data could never be uploaded to an external database. Currently, the system pushes inverter data to a SQL database stored on a paid server and no action is taken with regards to the delivering it to the owner of the EV ARC. I believe Bryan uses it to debug errors in remote systems and that’s about it.
@@ -24,5 +22,7 @@ I discussed the proposed platform with Bryan and he is onboard with the idea. As
 Bryan’s script is a pretty good script in that it reads the registers of the EV ARC, takes the appropriate data, and uploads it to a SQL database using PHP POST. It doesn’t follow programming standards, like object-oriented approach, or even functional programming. It’s all just one long script with variables instantiated randomly down the script. Refactoring it to OOP not only makes it more maintainable but it also allows me to have a separate file for the specific configurations of the EV ARC the file is deployed on. This means any time a new EV ARC is built, only the config file needs to change to suit. This didn’t take me too long once I understood the aim of the script.
 
 Now, I’m sure this has been enough technical splurge for you so I’ll end it there for now. I’ll talk about the frustrating challenges of accessing the charger APIs in the next blog. As I’m working 9-6 Monday-Friday, most of the play time is done at the weekends so look out for those blogs if you’d rather swerve the nerd jargon. Thanks for reading. I’ll see you in the one next one.
+
+![code](/images/code.jpg)
 
 [Previous Post](touchdown-in-san-diego.html) | [Next Post](FirstWeek.html)
