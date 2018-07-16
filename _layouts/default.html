@@ -42,10 +42,6 @@
       {{ content }}
     </div>
     
-    {% for post in site.posts %}
-<img src="{{ site.baseurl }}/{{ post.img }}">
-{% endfor %}
-    
     {% if page.comments %} <div id="disqus_thread"></div>
 <script>
 
