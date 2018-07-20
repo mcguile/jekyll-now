@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First Week in California
+title: 6. Week One in California
 categories: saltire
 comments: true
 ---
