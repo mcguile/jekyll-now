@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Technical - Week One
+title: 5. Technical - Week One
 categories: saltire
 comments: true
 ---
