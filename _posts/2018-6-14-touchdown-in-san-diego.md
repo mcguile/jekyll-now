@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Touchdown in San Diego
+title: 4. Touchdown in San Diego
 categories: saltire
 comments: true
 ---
