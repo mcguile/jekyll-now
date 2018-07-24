@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5. Technical - Week One
+title: 5. Technical - Which Database Structure?
 categories: saltire
 comments: true
 ---
