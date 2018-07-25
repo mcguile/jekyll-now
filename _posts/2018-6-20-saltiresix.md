@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6. First Week
+title: 5. Technical - First Week
 categories: saltire
 comments: true
 ---
@@ -23,4 +23,4 @@ Bryan’s script is a pretty good script in that it reads the registers of the E
 
 Now, I’m sure this has been enough technical splurge for you so I’ll end it there for now. I’ll talk about the frustrating challenges of accessing the charger APIs in the next blog. As I’m working 9-6 Monday-Friday, most of the play time is done at the weekends so look out for those blogs if you’d rather swerve the nerd jargon. Thanks for reading. I’ll see you in the one next one.
 
-[Previous Post](saltirefour.html) | [Next Post](saltireseven.html)
+[Previous Post](saltirefour.html) | [Next Post](saltiresix.html)
