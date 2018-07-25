@@ -29,4 +29,4 @@ Look out for my third blog where I’ll discuss what’s next when you make it i
 
 ![Saltire](/images/saltireUSA.jpg)
 
-[Previous Post](Saltire1.html) | [Next Post](Saltire3.html)
+[Previous Post](saltireone.html) | [Next Post](saltirethree.html)
