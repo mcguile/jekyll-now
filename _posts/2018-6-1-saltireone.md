@@ -30,4 +30,4 @@ That will wrap up the first blog post. Check out my next post for advice on the 
 
 ![SaltireUSA](/images/saltire2.jpg)
 
-[Next Post](Saltire2.html)
+[Next Post](saltiretwo.html)
