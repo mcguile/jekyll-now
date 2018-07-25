@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 4. Touchdown in San Diego
 categories: saltire
 comments: true
