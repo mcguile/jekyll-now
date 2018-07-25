@@ -23,4 +23,4 @@ After Desmond's talk, we had an opportunity to speak with all the women in atten
 
 ![La Jolla](/images/sandiego2.jpg)
 
-[Previous Post](2018-6-5-Saltire3.md) | [Next Post](2018-6-20-ProjectWeekOne.md)
+[Previous Post](saltirethree.md) | [Next Post](saltirefive.md)
