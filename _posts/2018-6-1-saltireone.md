@@ -5,8 +5,6 @@ categories: saltire
 comments: true
 ---
 
-## How did I hear about Saltire?
-
 I was sat in a lecture theatre, expecting a colourless lecture on business sustainability, which all prospective engineers had to enrol in, when the careers advisor for Heriot-Watt walked in and introduced himself to the class. The introduction was brief, and he swiftly shifted our attention to the five or six students stood at the foot of the room. “These young men and women have been Saltire Scholars,” he said.  “You might be interested in what they have to say. They’ve completed internships around the world, had opportunities to engage with leaders in their future industries, and enjoyed a plethora of cultural experiences - all in one summer.”
 
 Okay, Saltire Scholars, you have my attention. Despite the Saltire Foundation exponentially growing its yearly applicants, I had not heard anything from anyone about the charity until now. On top of their experiences, the previous scholars described how the entire trip is funded by the Saltire Foundation. Flights, visa, and accommodation are all paid for, as well as a weekly stipend direct to your bank. I was already thinking about internships at this point, and this just seemed too good to be true.
