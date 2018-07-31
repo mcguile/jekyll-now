@@ -22,4 +22,4 @@ I wouldn’t say it took long for me to assimilate to that way of working. My su
 Since I’ve had a few of these whiteboard sessions, I now believe that teamwork isn’t about just getting stuff done together. It’s about opening discussions and *actually listening* to the responses. It’s about planning and execution. It’s about asking for criticism and giving it back constructively. It’s about keeping it together when your ideas don’t get used. And it’s about realising that mistakes get made, and that’s a good thing. This style of work is certainly something I’ll take back home with me and I’m looking forward to using it in the future. Open forum, genuine teamwork.
 
 
-[Previous Post](saltireseven.html) | [Next Post](saltireeight.html)
+[Previous Post](saltireseven.html) | [Next Post](saltirenine.html)
