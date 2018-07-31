@@ -21,4 +21,4 @@ The next day we had a look around Newport Beach. It was overcast and actually pr
 
 ![Local Cafe Bagels](/images/bagel.png) ![Me at the Mall](/images/memall.png) ![Car at the Mall](/images/car.png) ![By the pier](/images/mepier.png)
 
-[Previous Post](saltireseven.html)
+[Previous Post](saltirefive.html) | [Next Post](saltireseven.html)
