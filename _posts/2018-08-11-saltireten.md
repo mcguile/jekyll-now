@@ -14,11 +14,11 @@ Most of my programming solutions at university or in coding challenges have been
 Code:
 
 ```python
-portList = _finditem(dict,"Port") // recursive function to get array of port status dictionaries
+portList = _finditem(dict,"Port") # recursive function to get array of port status dictionaries
     for i,port in enumerate(portList):
         for k,v in port.iteritems():
             if str(k)=="Status":
-                // we’ve found what we were looking for
+               # we’ve found what we were looking for
 ```
 
 Error: 
