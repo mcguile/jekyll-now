@@ -21,7 +21,7 @@ portList = _finditem(dict,"Port") # recursive function to get array of port stat
                # we’ve found what we were looking for
 ```
 
-In this code, I check to see if a key called “Port” exists. I use a recursive function, *_findItem*, to do so because the data is nested. If it does exist, I *know* that the value of this key is an array of dictionaries. Each element in the array is some status information about a charger port on Envision’s systems. I then loop over all ports in the array, get key-value pairs from the dictionary of that port, then check if a key of “Status” exists to finally get the paired value.
+In this code, I check to see if a key called “Port” exists. I use a recursive function, *_findItem*, to do so because the data is nested. If it does exist, I *know* that the value of this key, *portList*, is an array of dictionaries. Each element in the array is some status information about a charger port on Envision’s systems. I then loop over all ports in the array, get key-value pairs from the dictionary of that port, then check if a key of “Status” exists to finally get the paired value.
 
 Error: 
 
