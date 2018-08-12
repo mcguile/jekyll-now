@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10. Programming: Testing is Crucial
+title: 10. Programming - Testing is Crucial
 categories: saltire
 comments: true
 ---
